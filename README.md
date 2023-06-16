@@ -1,8 +1,11 @@
-Hi there, I'm Shrey 👋
-About Me
+# Hi there, I'm Shrey 👋
+
+## About Me
+
 I'm a skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒🤖
 
-Key Skills
+## Key Skills
+
 - **Software Development**: I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases. 🚀🐹
 
 - **Applied Cybersecurity**: I possess in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries. 🔒🔐
