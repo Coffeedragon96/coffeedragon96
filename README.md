@@ -37,7 +37,7 @@ I'm a skilled Golang developer with a strong background in cybersecurity and Mac
 
 ## Publications
 
-- **Adaptive Live Task Migration in Cloud Environment for Significant Disaster Prevention and Cost Reduction**,  Information and Communication Technology for Intelligent Systems. Smart Innovation, Systems and Technologies, vol 106. Springer, Singapore (Raval S.M., Shah N.B., Thakkar T.C., Trivedi H)
+- **[Adaptive Live Task Migration in Cloud Environment for Significant Disaster Prevention and Cost Reduction](https://link.springer.com/chapter/10.1007/978-981-13-1742-2_64)**,  Information and Communication Technology for Intelligent Systems. Smart Innovation, Systems and Technologies, vol 106. Springer, Singapore (Raval S.M., Shah N.B., Thakkar T.C., Trivedi H)
 
 ## Contact Me
 
