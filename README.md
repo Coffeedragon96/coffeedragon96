@@ -4,6 +4,20 @@
 
 Skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒🤖
 
+## Key Skills
+
+- **Software Development**: I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases. 🚀🐹
+
+- **Applied Cybersecurity**: Possesses in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries. 🔒🔐
+
+- **AI Concepts**: With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects. 🧠🤖
+
+- **Cloud Deployment**: Proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
+
+- **Effective Communication**: I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences. 🎤💬
+
+- **Problem Solving**: I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills. 🧩💡
+
 ## Professional Experience
 
 - **As a Developer** 💻
@@ -59,20 +73,6 @@ Skilled Golang developer with a strong background in cybersecurity and Machine L
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40">
 </p>
 
-
-## Key Skills
-
-- **Software Development**: I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases. 🚀🐹
-
-- **Applied Cybersecurity**: Possesses in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries. 🔒🔐
-
-- **AI Concepts**: With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects. 🧠🤖
-
-- **Cloud Deployment**: Proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
-
-- **Effective Communication**: I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences. 🎤💬
-
-- **Problem Solving**: I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills. 🧩💡
 
 ## Certifications
 
