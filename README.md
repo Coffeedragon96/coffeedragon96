@@ -21,13 +21,13 @@ Skilled Golang developer with a strong background in cybersecurity and Machine L
 
 ## Professional Experience
 
-- **As a Developer**
+- **As a Developer** 💻
   - Developed high-performance backend systems using Go & Python, optimized for scalability and reliability.
   - Collaborated with cross-functional teams to design and implement software solutions, ensuring seamless integration with existing systems.
   - Implemented robust security measures and conducted regular code reviews to identify and address potential vulnerabilities.
   - Mentored junior developers and facilitated knowledge sharing sessions to enhance team expertise in Golang development.
 
-- **As a Professor**
+- **As a Professor** 🐹
   - Designed and delivered lectures on various topics, including Python Scripting & Automation, Introduction to System Security, Security & Incident Response, and Data Analytics.
   - Led hands-on coding projects and guided students in developing practical applications using Golang, Python, AWS, and Wordpress.
   - Published research papers in reputable journals and conferences, contributing to the academic community's knowledge in cybersecurity and AI.
