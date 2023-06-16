@@ -18,16 +18,6 @@ I'm a skilled Golang developer with a strong background in cybersecurity and Mac
 
 - **Problem Solving**: I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills. 🧩💡
 
-Education
-Post Graduate Diploma in Artificial Intelligence, Durham College, 2020
-Post Graduate Diploma in Cybersecurity, Durham College, 2019
-B.Tech. in Computer Science, Gujarat Technological University, 2018
-
-## Education
-
-- **Post Graduate Diploma in Artificial Intelligence**, Durham College, 2020
-- **Post Graduate Diploma in Cybersecurity**, Durham College, 2019
-- **B.Tech. in Computer Engineering**, Gujarat Technological University, 2018
 
 ## Professional Experience
 
