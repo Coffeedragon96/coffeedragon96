@@ -42,7 +42,7 @@ B.Tech. in Computer Science, Gujarat Technological University, 2018
   - Led hands-on coding projects and guided students in developing practical applications using Golang, Python, AWS, and Wordpress.
   - Published research papers in reputable journals and conferences, contributing to the academic community's knowledge in cybersecurity and AI.
 
-## (Certifications(https://www.linkedin.com/in/ravalshrey/details/certifications/))
+## [Certifications](https://www.linkedin.com/in/ravalshrey/details/certifications/)
 
 
 ## Publications
