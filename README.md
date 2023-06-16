@@ -12,7 +12,7 @@ Skilled Golang developer with a strong background in cybersecurity and Machine L
 
 - **AI Concepts**: With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects. 🧠🤖
 
-- **Cloud Deployment (AWS)**: I am proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM< Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
+- **Cloud Deployment (AWS)**: I am proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
 
 - **Effective Communication**: I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences. 🎤💬
 
