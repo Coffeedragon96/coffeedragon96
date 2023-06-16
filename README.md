@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒🤖
+Skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒🤖
 
 ## Key Skills
 
