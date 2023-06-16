@@ -32,7 +32,6 @@ Skilled Golang developer with a strong background in cybersecurity and Machine L
   - Led hands-on coding projects and guided students in developing practical applications using Golang, Python, AWS, and Wordpress.
   - Published research papers in reputable journals and conferences, contributing to the academic community's knowledge in cybersecurity and AI.
 
-</br>
 
 ## Technologies
 
@@ -76,13 +75,10 @@ Skilled Golang developer with a strong background in cybersecurity and Machine L
 </p>
 
 
-</br>
-
 ## Certifications
 
 > [Linkedin Certifications](https://www.linkedin.com/in/ravalshrey/details/certifications/)
 
-</br>
 
 ## Publications
 
