@@ -4,19 +4,53 @@
 
 Skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒🤖
 
-## Key Skills
+Certainly! Here are the key skills represented as dropdowns in Markdown with bold titles and bullet points:
 
-- **Software Development**: I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases. 🚀🐹
+Certainly! Here are the key skills represented as dropdowns in Markdown with bold titles:
 
-- **Applied Cybersecurity**: Possesses in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries. 🔒🔐
+## Key Skills (Click to read more)
 
-- **AI Concepts**: With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects. 🧠🤖
+<details>
+<summary><b>Software Development</b></summary>
 
-- **Cloud Deployment**: Proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
+I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases. 🚀🐹
 
-- **Effective Communication**: I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences. 🎤💬
+</details>
 
-- **Problem Solving**: I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills. 🧩💡
+<details>
+<summary><b>Applied Cybersecurity</b></summary>
+
+Possesses in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries. 🔒🔐
+
+</details>
+
+<details>
+<summary><b>AI Concepts</b></summary>
+
+With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects. 🧠🤖
+
+</details>
+
+<details>
+<summary><b>Cloud Deployment</b></summary>
+
+Proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures. ☁️🚀
+
+</details>
+
+<details>
+<summary><b>Effective Communication</b></summary>
+
+I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences. 🎤💬
+
+</details>
+
+<details>
+<summary><b>Problem Solving</b></summary>
+
+I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills. 🧩💡
+
+</details>
 
 ## Professional Experience
 
