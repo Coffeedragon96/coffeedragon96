@@ -8,7 +8,7 @@ Certainly! Here are the key skills represented as dropdowns in Markdown with bol
 
 Certainly! Here are the key skills represented as dropdowns in Markdown with bold titles:
 
-## Key Skills (Click to read more)
+## Key Skills
 
 <details>
 <summary><b>Software Development</b></summary>
