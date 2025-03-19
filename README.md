@@ -116,6 +116,6 @@ I have a strong analytical mindset and a passion for problem-solving. I enjoy ta
 
 ## Contact Me
 
-You can reach me via email at ravalshrey{@}gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ravalshrey/).
+[LinkedIn](https://www.linkedin.com/in/ravalshrey/).
 
 Let's connect and explore the possibilities! 📧🤝
