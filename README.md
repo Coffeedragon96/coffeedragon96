@@ -100,7 +100,6 @@ I have a strong analytical mindset and a passion for problem-solving. I enjoy ta
 <img src="https://www.mertsarica.com/wp-content/uploads/2010/05/metasploitpng.png" width="40" height="40">
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40">
 <img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="40" height="40">
-<img src="https://digitalsense.com.au/wp-content/uploads/2020/10/vmware-logo-white.png" width="150" height="40">
 </p>
 
 
