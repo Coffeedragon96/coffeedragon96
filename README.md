@@ -4,7 +4,6 @@
 
 Skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒
 
-
 ## Key Skills
 
 <details>
@@ -62,43 +61,9 @@ I have a strong analytical mindset and a passion for problem-solving. I enjoy ta
   - Led hands-on coding projects and guided students in developing practical applications using Golang, Python, AWS, and Wordpress.
   - Published research papers in reputable journals and conferences, contributing to the academic community's knowledge in cybersecurity and AI.
 
-
-## Technologies
-
-> ### Development:
-<p align="left"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40">
-</p>
-
-> ### DevOps+Cloud Tools:
-<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="40" height="40">
-</p>
-
-> ### Other Technologies:
-<p align="left"><img src="https://miro.medium.com/v2/resize:fit:1001/1*vPezx00A1u0WAfS8e8wBXQ.png" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
-<img src="https://www.mertsarica.com/wp-content/uploads/2010/05/metasploitpng.png" width="40" height="40">
-<img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40">
-<img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="40" height="40">
-</p>
-
-
 ## Certifications
 
 > [Linkedin Certifications](https://www.linkedin.com/in/ravalshrey/details/certifications/)
-
 
 ## Publications
 
