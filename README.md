@@ -1,76 +1,62 @@
-# Hi there, I'm Shrey 👋
+<div align="center">
 
-## About Me
+<img src="./assets/hero.svg" alt="Shrey Raval — I make systems think, then ask how they might break." width="100%" />
 
-Skilled Golang developer with a strong background in cybersecurity and Machine Learning. With a passion for coding and a knack for problem-solving, I strive to create efficient, secure, and scalable solutions that deliver exceptional results. My experience as a professor has honed my ability to communicate complex ideas effectively, making me a valuable asset in any team environment. 💻🔒
+<br />
 
-## Key Skills
+**A curious mind with a compiler, a threat model, and too many browser tabs.**
+
+[the things I build](https://wewer.io) &nbsp;·&nbsp; [the things I think](https://www.linkedin.com/in/ravalshrey/) &nbsp;·&nbsp; [the code](https://github.com/Coffeedragon96?tab=repositories)
+
+</div>
+
+<br />
+
+<img src="./assets/operating-system.svg" alt="My operating system: Make it think. Make it safe. Make it real." width="100%" />
+
+### `~/about`
+
+I live where **AI meets cybersecurity** — building autonomous systems, questioning their assumptions, and designing the architecture that keeps them useful, resilient, and difficult to break.
+
+I started with code. Then came research, teaching, security, and eventually the irresistible urge to build my own things.
+
+Now I run **[Wewer](https://wewer.io)**, where I turn interesting problems into software. Sometimes products. Sometimes experiments. Usually both.
+
+### `~/currently`
+
+```text
+> building       agentic AI & products with actual utility
+> thinking       who watches the agents?
+> engineering    Go · Python · distributed systems · cloud
+> breaking       assumptions, prototypes, occasionally my own code
+> learning       everything that makes the above obsolete
+```
+
+### `~/rules-of-thumb`
+
+- If it needs a 40-slide deck to explain, it probably needs another design pass.
+- AI without guardrails is just confidence at scale.
+- Security is an architectural decision, not a final checklist.
+- I like boring infrastructure and ambitious ideas.
+- Ship, observe, rethink, repeat.
 
 <details>
-<summary><b>Software Development</b> 🚀</summary>
+<summary><b>One academic side quest ↗</b></summary>
 
-I have extensive experience in developing scalable and performant applications using the Go and Python programming language. I'm well-versed in best practices, design patterns, and idiomatic coding style, ensuring clean and maintainable codebases.
+<br />
+
+I used to spend a fair bit of time in classrooms and research labs. Teaching technical ideas taught me to distrust explanations that only sound clever.
+
+I also co-authored a paper on [adaptive live task migration in cloud environments](https://link.springer.com/chapter/10.1007/978-981-13-1742-2_64). Turns out I've been thinking about resilient systems for a while.
 
 </details>
 
-<details>
-<summary><b>Applied Cybersecurity</b> 🔐</summary>
+---
 
-Possesses in-depth knowledge of cybersecurity principles, including secure coding practices, threat modeling, vulnerability assessments, and risk management. I have hands-on experience in implementing security measures and mitigating vulnerabilities in various sectors and areas of industries.
+<div align="center">
 
-</details>
+*Build thoughtfully. Break responsibly. Stay curious.*
 
-<details>
-<summary><b>AI Concepts</b> 🧠</summary>
+<sub>Based in Canada · Usually somewhere between an idea and a working prototype.</sub>
 
-With a solid understanding of artificial intelligence concepts, including machine learning, natural language processing, and computer vision, I can contribute to developing intelligent systems and integrating AI capabilities into software projects.
-
-</details>
-
-<details>
-<summary><b>Cloud Deployment</b> ☁️</summary>
-
-Proficient in deploying/managing applications on the Amazon Web Services (AWS) cloud platform. I have extensive experience with multiple AWS services such as EC2, S3, Lightsail, IAM, Route53, and RDS, and can design and implement scalable and resilient architectures.
-
-</details>
-
-<details>
-<summary><b>Effective Communication</b> 🎤</summary>
-
-I excel in presenting complex technical concepts in a clear and concise manner. Through my experience as a professor, I have honed my communication skills and can effectively convey ideas to both technical and non-technical audiences.
-
-</details>
-
-<details>
-<summary><b>Problem Solving</b> 💡</summary>
-
-I have a strong analytical mindset and a passion for problem-solving. I enjoy tackling complex challenges and finding innovative solutions by applying my technical expertise and critical thinking skills.
-
-</details>
-
-## Professional Experience
-
-- **As a Developer** 
-  - Developed high-performance backend systems using Go & Python, optimized for scalability and reliability.
-  - Collaborated with cross-functional teams to design and implement software solutions, ensuring seamless integration with existing systems.
-  - Implemented robust security measures and conducted regular code reviews to identify and address potential vulnerabilities.
-  - Mentored junior developers and facilitated knowledge sharing sessions to enhance team expertise in Golang development.
-
-- **As a Professor** 
-  - Designed and delivered lectures on various topics, including Python Scripting & Automation, Introduction to System Security, Security & Incident Response, and Data Analytics.
-  - Led hands-on coding projects and guided students in developing practical applications using Golang, Python, AWS, and Wordpress.
-  - Published research papers in reputable journals and conferences, contributing to the academic community's knowledge in cybersecurity and AI.
-
-## Certifications
-
-> [Linkedin Certifications](https://www.linkedin.com/in/ravalshrey/details/certifications/)
-
-## Publications
-
-- **[Adaptive Live Task Migration in Cloud Environment for Significant Disaster Prevention and Cost Reduction](https://link.springer.com/chapter/10.1007/978-981-13-1742-2_64)**,  Information and Communication Technology for Intelligent Systems. Smart Innovation, Systems and Technologies, vol 106. Springer, Singapore (Raval S.M., Shah N.B., Thakkar T.C., Trivedi H)
-
-## Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/ravalshrey/).
-
-Let's connect and explore the possibilities! 📧🤝
+</div>
