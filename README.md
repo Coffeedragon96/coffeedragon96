@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://wewer.io">what I build</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ravalshrey/">what I think</a> &nbsp; / &nbsp;
-  <a href="https://github.com/Coffeedragon96?tab=repositories">what I ship</a>
+  <a href="https://wewer.io">What I build</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ravalshrey/">What I think</a> &nbsp; / &nbsp;
+  <a href="https://wewer.io/projects">What I ship</a>
 </p>
 
 <br />
