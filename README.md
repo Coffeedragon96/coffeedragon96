@@ -1,62 +1,47 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/identity.png" alt="Shrey Raval — I make systems think. Then ask how they might break." width="100%" />
+</p>
 
-<img src="./assets/hero.svg" alt="Shrey Raval — I make systems think, then ask how they might break." width="100%" />
-
-<br />
-
-**A curious mind with a compiler, a threat model, and too many browser tabs.**
-
-[the things I build](https://wewer.io) &nbsp;·&nbsp; [the things I think](https://www.linkedin.com/in/ravalshrey/) &nbsp;·&nbsp; [the code](https://github.com/Coffeedragon96?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://wewer.io">what I build</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ravalshrey/">what I think</a> &nbsp; / &nbsp;
+  <a href="https://github.com/Coffeedragon96?tab=repositories">what I ship</a>
+</p>
 
 <br />
 
-<img src="./assets/operating-system.svg" alt="My operating system: Make it think. Make it safe. Make it real." width="100%" />
+### `whoami`
 
-### `~/about`
+I work at the intersection of **AI, security, and the things that hold software together**.
 
-I live where **AI meets cybersecurity** — building autonomous systems, questioning their assumptions, and designing the architecture that keeps them useful, resilient, and difficult to break.
+Some days I build agents. Some days I ask them uncomfortable questions. Most days I'm figuring out how to make powerful systems useful *without making them fragile*.
 
-I started with code. Then came research, teaching, security, and eventually the irresistible urge to build my own things.
+Founder & builder at **[Wewer](https://wewer.io)**. Previously found in research labs, classrooms, and a few too many terminals.
 
-Now I run **[Wewer](https://wewer.io)**, where I turn interesting problems into software. Sometimes products. Sometimes experiments. Usually both.
-
-### `~/currently`
+### `current_processes`
 
 ```text
-> building       agentic AI & products with actual utility
-> thinking       who watches the agents?
-> engineering    Go · Python · distributed systems · cloud
-> breaking       assumptions, prototypes, occasionally my own code
-> learning       everything that makes the above obsolete
+[ running ]  building practical agentic systems
+[ running ]  designing secure platforms
+[ running ]  Go + Python + whatever the problem calls for
+[ forever ]  wondering how it breaks
 ```
 
-### `~/rules-of-thumb`
+### `design_constraints`
 
-- If it needs a 40-slide deck to explain, it probably needs another design pass.
-- AI without guardrails is just confidence at scale.
-- Security is an architectural decision, not a final checklist.
-- I like boring infrastructure and ambitious ideas.
-- Ship, observe, rethink, repeat.
+> **Think boldly. Design defensively. Ship deliberately.**
+
+I like boring infrastructure, thoughtful abstractions, security by design, and products that do more than demo well. I am suspicious of unnecessary complexity — including the kind I occasionally introduce myself.
 
 <details>
-<summary><b>One academic side quest ↗</b></summary>
+<summary><strong>the academic side quest</strong></summary>
 
 <br />
 
-I used to spend a fair bit of time in classrooms and research labs. Teaching technical ideas taught me to distrust explanations that only sound clever.
-
-I also co-authored a paper on [adaptive live task migration in cloud environments](https://link.springer.com/chapter/10.1007/978-981-13-1742-2_64). Turns out I've been thinking about resilient systems for a while.
+I've taught software, automation, networking and security, and worked in applied research. A small artifact from that era: [Adaptive Live Task Migration in Cloud Environment for Significant Disaster Prevention and Cost Reduction](https://link.springer.com/chapter/10.1007/978-981-13-1742-2_64) (Springer).
 
 </details>
 
 ---
 
-<div align="center">
-
-*Build thoughtfully. Break responsibly. Stay curious.*
-
-<sub>Based in Canada · Usually somewhere between an idea and a working prototype.</sub>
-
-</div>
+<p align="center"><sub>Build thoughtfully · Break responsibly · Stay curious</sub></p>
